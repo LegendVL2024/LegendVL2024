@@ -2,7 +2,7 @@
 
 **LegendVL2024/LegendVL2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- Oie. 
+  Oie. 
  Me chamo Victoria Lethycia, sou estudante do Ensino Médio e Técnico de Desenvolvimento de Sistemas
  Ela/dela
  Atualmente estou estudando: Desenvolviemnto de Sistemase inglêS
